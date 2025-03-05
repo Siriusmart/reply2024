@@ -19,11 +19,11 @@ What this is not:
 
 Check test cases for examples:
 
-| Language   | Examples                                                                                                              |
-| ---------- | --------------------------------------------------------------------------------------------------------------------- |
-| Rust       | [`/rust/src/tests.rs`](https://github.com/Siriusmart/reply-parsers/blob/master/rust/src/tests.rs)                     |
-| Java       | [`/java/src/main/java/App.java`](https://github.com/Siriusmart/reply-parsers/blob/master/java/src/main/java/App.java) |
-| Javascript | [`/nodejs/tests.js`](https://github.com/Siriusmart/reply-parsers/blob/master/nodejs/tests.js)                         |
+| Language   | Examples                                                                                                                  |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Rust       | [`/rust/src/tests.rs`](https://github.com/Siriusmart/reply2024/blob/master/parsers/rust/src/tests.rs)                     |
+| Java       | [`/java/src/main/java/App.java`](https://github.com/Siriusmart/reply2024/blob/master/parsers/java/src/main/java/App.java) |
+| Javascript | [`/nodejs/tests.js`](https://github.com/Siriusmart/reply2024/blob/master/parsers/nodejs/tests.js)                         |
 
 ### Rust
 
